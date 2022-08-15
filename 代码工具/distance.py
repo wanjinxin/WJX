@@ -19,6 +19,8 @@ def haver_sin(theta):
 
 """
 用haversine公式计算球面两点间的距离
+haversin (0)=sin^2(0/2)=(1-cos(0))/2
+math.fabs 求绝对值
 """
 
 
